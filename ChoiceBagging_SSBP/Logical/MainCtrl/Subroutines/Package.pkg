@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File" Description="Start from home">Initialize.ld</Object>
+    <Object Type="File" Description="Continuous running mode">Subroutine0.ld</Object>
+    <Object Type="File" Description="Pick up / lift empty bags">Subroutine1.ld</Object>
+    <Object Type="File" Description="Insert duck bill / expand bill">Subroutine2.ld</Object>
+    <Object Type="File" Description="Move bag to side">Subroutine3.ld</Object>
+    <Object Type="File" Description="Swing bag gripper over duck bill / grab bag / shut bill">Subroutine4.ld</Object>
+    <Object Type="File" Description="Swing upwards with bag">Subroutine5.ld</Object>
+    <Object Type="File" Description="Move carriage to bag filling machine">Subroutine6.ld</Object>
+    <Object Type="File" Description="Swing bag onto bag filling spout">Subroutine7.ld</Object>
+    <Object Type="File" Description="Release bag">Subroutine8.ld</Object>
+    <Object Type="File" Description="Repeat">Subroutine9.ld</Object>
+    <Object Type="File" Description=" Error handling">CheckError.ld</Object>
+    <Object Type="File" Description="Stop machine">Stop.ld</Object>
+    <Object Type="File" Description="Error detected">Error.ld</Object>
+    <Object Type="File" Description=" Waiting">Wait.ld</Object>
+    <Object Type="File" Description="Pause / resume">Pause.ld</Object>
+  </Objects>
+</Package>

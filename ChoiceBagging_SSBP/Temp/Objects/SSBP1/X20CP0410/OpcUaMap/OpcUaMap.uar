@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UANodeSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uax="http://opcfoundation.org/UA/2008/02/Types.xsd" xmlns:ua="http://br-automation.com/OpcUa/configuration/NodeSet.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://opcfoundation.org/UA/2011/03/UANodeSet.xsd">
+  <NamespaceUris>
+    <Uri>http://br-automation.com/OpcUa/PLC/PV/</Uri>
+  </NamespaceUris>
+  <Models>
+    <Model ModelUri="http://br-automation.com/OpcUa/PLC/PV/" Version="1.00" PublicationDate="2019-09-19T12:53:14Z" />
+  </Models>
+  <Extensions>
+    <Extension>
+      <ua:ModelInfo Tool="AutomationStudio" Version="4.5.2.102" />
+      <Provider>PV</Provider>
+    </Extension>
+  </Extensions>
+  <DefaultView>
+    <Module>
+      <GlobalVariables Name="Global PV">
+        <Variable Name="gdi" DataType="i=22">
+          <Variable Name="L1CarriageRight" DataType="i=1" />
+          <Variable Name="L2CarriageLeft" DataType="i=1" />
+          <Variable Name="L3BagLifterUpper" DataType="i=1" />
+          <Variable Name="L4BagLifterLower" DataType="i=1" />
+          <Variable Name="L5DuckBillLeft" DataType="i=1" />
+          <Variable Name="L6DuckBillRight" DataType="i=1" />
+          <Variable Name="L7GripperOpen" DataType="i=1" />
+          <Variable Name="L8VacuumConfirm" DataType="i=1" />
+          <Variable Name="L9SwingArmUpper" DataType="i=1" />
+          <Variable Name="L10SwingArmLower" DataType="i=1" />
+          <Variable Name="L11EmptyBagInboundConv" DataType="i=1" />
+          <Variable Name="L12Cyl7SpreaderSwitch" DataType="i=1" />
+          <Variable Name="Bagger1Ready" DataType="i=1" />
+          <Variable Name="Bagger2OnSpout" DataType="i=1" />
+          <Variable Name="ConveyorOn" DataType="i=1" />
+          <Variable Name="SafeToRun" DataType="i=1" />
+          <Variable Name="ChairDischarge" DataType="i=1" />
+          <Variable Name="SealerArmUp" DataType="i=1" />
+          <Variable Name="ChairIn" DataType="i=1" />
+        </Variable>
+        <Variable Name="gdo" DataType="i=22">
+          <Variable Name="Cyl1CarriageLeft" DataType="i=1" />
+          <Variable Name="Cyl1CarriageRight" DataType="i=1" />
+          <Variable Name="Cyl2SwingArmUp" DataType="i=1" />
+          <Variable Name="Cyl2SwingArmDown" DataType="i=1" />
+          <Variable Name="Cyl3EmptyBagUp" DataType="i=1" />
+          <Variable Name="Cyl3DownToEmptyBag" DataType="i=1" />
+          <Variable Name="Cyl4DuckBillLeft" DataType="i=1" />
+          <Variable Name="Cyl4DuckBillRight" DataType="i=1" />
+          <Variable Name="Cyl5DuckBillIn" DataType="i=1" />
+          <Variable Name="Cyl5DuckBillOut" DataType="i=1" />
+          <Variable Name="Cyl6DuckBillOpen" DataType="i=1" />
+          <Variable Name="Cyl6DuckBillClose" DataType="i=1" />
+          <Variable Name="Cyl7Spreader" DataType="i=1" />
+          <Variable Name="Cyl8DropOpen" DataType="i=1" />
+          <Variable Name="Cyl8GripClose" DataType="i=1" />
+          <Variable Name="Vac1" DataType="i=1" />
+          <Variable Name="Purge1" DataType="i=1" />
+          <Variable Name="Alarm" DataType="i=1" />
+          <Variable Name="Running" DataType="i=1" />
+        </Variable>
+      </GlobalVariables>
+      <Task Name="VisCtrl">
+        <Variable Name="Vis" DataType="i=22">
+          <Variable Name="Cmd" DataType="i=22">
+            <Variable Name="Start" DataType="i=1" />
+            <Variable Name="Stop" DataType="i=1" />
+            <Variable Name="Home" DataType="i=1" />
+          </Variable>
+          <Variable Name="Par" DataType="i=22">
+            <Variable Name="BagOnSpoutTimer" DataType="i=4" />
+            <Variable Name="HomePosTimer" DataType="i=4" />
+            <Variable Name="VacuumConfirmTimer" DataType="i=4" />
+            <Variable Name="Cyl5Timer" DataType="i=4" />
+            <Variable Name="Cyl6Timer" DataType="i=4" />
+            <Variable Name="Cyl7Timer" DataType="i=4" />
+            <Variable Name="GripperRetractTimer" DataType="i=4" />
+            <Variable Name="SwingArmTimer" DataType="i=4" />
+          </Variable>
+          <Variable Name="Sts" DataType="i=22">
+            <Variable Name="MachineStatus" DataType="i=7" />
+          </Variable>
+        </Variable>
+      </Task>
+    </Module>
+  </DefaultView>
+</UANodeSet>

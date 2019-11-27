@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132101105634660684" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Temp\Includes\AS_TempDecl\SSBP1\GlobalComponents\MpComponents.var"
+    LogicalPath="MpComponents.var"
+    Type="File"
+    LastWriteTime="132092370085407906"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132125317107478280"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132101170885959746"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132092370078489570" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132083661071862990" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132083661071662122"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132083661071782488"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132083661071842583"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132083661075071416" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132083661074951085"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132083661074981188"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132083661075041400"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132083661078292837" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132083661078159996"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132083661078200097"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132083661078232368"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132083661081280386" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132083661081190148"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132083661081210206"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132083661081230249"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsArSdm\binary.lby"
+    LogicalPath="Libraries.AsArSdm"
+    Type="Library"
+    LastWriteTime="132083682074529095" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsArSdm\AsArSdm.fun"
+    LogicalPath="Libraries.AsArSdm.AsArSdm.fun"
+    Type="File"
+    LastWriteTime="132083682074388746"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsArSdm\AsArSdm.typ"
+    LogicalPath="Libraries.AsArSdm.AsArSdm.typ"
+    Type="File"
+    LastWriteTime="132083682074428832"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\AsArSdm\AsArSdm.var"
+    LogicalPath="Libraries.AsArSdm.AsArSdm.var"
+    Type="File"
+    LastWriteTime="132083682074468937"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\brsystem\binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="132083682085353201" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="132083682085212837"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="132083682085252937"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="132083682085303059"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpBase\Binary.lby"
+    LogicalPath="Libraries.MpBase"
+    Type="Library"
+    LastWriteTime="132083682091868834" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpBase\MpBase.typ"
+    LogicalPath="Libraries.MpBase.MpBase.typ"
+    Type="File"
+    LastWriteTime="132083682091708077"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpBase\MpBase.var"
+    LogicalPath="Libraries.MpBase.MpBase.var"
+    Type="File"
+    LastWriteTime="132083682091728130"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpBase\MpBase.fun"
+    LogicalPath="Libraries.MpBase.MpBase.fun"
+    Type="File"
+    LastWriteTime="132083682091758316"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpBase\Common_EventLog.tmx"
+    LogicalPath="Libraries.MpBase.Common_EventLog.tmx"
+    Type="File"
+    LastWriteTime="132083682091818372"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\standard\binary.lby"
+    LogicalPath="Libraries.standard"
+    Type="Library"
+    LastWriteTime="132083682098553678" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\standard\standard.fun"
+    LogicalPath="Libraries.standard.standard.fun"
+    Type="File"
+    LastWriteTime="132083682098463422"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\standard\standard.typ"
+    LogicalPath="Libraries.standard.standard.typ"
+    Type="File"
+    LastWriteTime="132083682098493525"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\standard\standard.var"
+    LogicalPath="Libraries.standard.standard.var"
+    Type="File"
+    LastWriteTime="132083682098533621"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\sys_lib\binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132083682104735140" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132083682104669324"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132083682104695034"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132083682104725123"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpAlarmX\Binary.lby"
+    LogicalPath="Libraries.MpAlarmX"
+    Type="Library"
+    LastWriteTime="132092370078158584" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpAlarmX\MpAlarmX.typ"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmX.typ"
+    Type="File"
+    LastWriteTime="132092370077947231"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpAlarmX\MpAlarmXError.typ"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmXError.typ"
+    Type="File"
+    LastWriteTime="132092370078032702"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Libraries\MpAlarmX\MpAlarmX.fun"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmX.fun"
+    Type="File"
+    LastWriteTime="132092370078108166"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\IEC.prg"
+    LogicalPath="MainCtrl"
+    Type="Program"
+    LastWriteTime="132095776226732105" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Cyclic.ld"
+    LogicalPath="MainCtrl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="132125331044046374"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Init.ld"
+    LogicalPath="MainCtrl.Init.ld"
+    Type="File"
+    LastWriteTime="132110449331675851"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Exit.ld"
+    LogicalPath="MainCtrl.Exit.ld"
+    Type="File"
+    LastWriteTime="132092354685063470"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Types.typ"
+    LogicalPath="MainCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132100924825655282"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Variables.var"
+    LogicalPath="MainCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132125347093720474"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Package.pkg"
+    LogicalPath="MainCtrl.Subroutines"
+    Type="Package"
+    LastWriteTime="132125310761316932" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Initialize.ld"
+    LogicalPath="MainCtrl.Subroutines.Initialize.ld"
+    Type="File"
+    LastWriteTime="132109582693026481"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine0.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine0.ld"
+    Type="File"
+    LastWriteTime="132108064741770270"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine1.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine1.ld"
+    Type="File"
+    LastWriteTime="132113874637062996"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine2.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine2.ld"
+    Type="File"
+    LastWriteTime="132113875109293411"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine3.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine3.ld"
+    Type="File"
+    LastWriteTime="132113875377511031"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine4.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine4.ld"
+    Type="File"
+    LastWriteTime="132108002141198120"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine5.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine5.ld"
+    Type="File"
+    LastWriteTime="132113875816205821"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine6.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine6.ld"
+    Type="File"
+    LastWriteTime="132113876012612671"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine7.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine7.ld"
+    Type="File"
+    LastWriteTime="132108714465505667"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine8.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine8.ld"
+    Type="File"
+    LastWriteTime="132113876948961424"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Subroutine9.ld"
+    LogicalPath="MainCtrl.Subroutines.Subroutine9.ld"
+    Type="File"
+    LastWriteTime="132102703031536384"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\CheckError.ld"
+    LogicalPath="MainCtrl.Subroutines.CheckError.ld"
+    Type="File"
+    LastWriteTime="132108784032009034"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Stop.ld"
+    LogicalPath="MainCtrl.Subroutines.Stop.ld"
+    Type="File"
+    LastWriteTime="132108780457638602"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Error.ld"
+    LogicalPath="MainCtrl.Subroutines.Error.ld"
+    Type="File"
+    LastWriteTime="132113877474513438"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Wait.ld"
+    LogicalPath="MainCtrl.Subroutines.Wait.ld"
+    Type="File"
+    LastWriteTime="132106971620945731"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Subroutines\Pause.ld"
+    LogicalPath="MainCtrl.Subroutines.Pause.ld"
+    Type="File"
+    LastWriteTime="132125357842702972"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\IEC.prg"
+    LogicalPath="AlarmCtrl"
+    Type="Program"
+    LastWriteTime="132103703728476560" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Cyclic.ld"
+    LogicalPath="AlarmCtrl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="132103704284456585"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Init.ld"
+    LogicalPath="AlarmCtrl.Init.ld"
+    Type="File"
+    LastWriteTime="132092355013759400"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Exit.ld"
+    LogicalPath="AlarmCtrl.Exit.ld"
+    Type="File"
+    LastWriteTime="132092355013779453"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Types.typ"
+    LogicalPath="AlarmCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132092355013799515"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Variables.var"
+    LogicalPath="AlarmCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132095744823056089"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\AlarmHandling.st"
+    LogicalPath="AlarmCtrl.AlarmHandling.st"
+    Type="File"
+    LastWriteTime="132107536103968524"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\IEC.prg"
+    LogicalPath="IOCtrl"
+    Type="Program"
+    LastWriteTime="132101105634660684" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Cyclic.ld"
+    LogicalPath="IOCtrl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="132109586386594735"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Init.ld"
+    LogicalPath="IOCtrl.Init.ld"
+    Type="File"
+    LastWriteTime="132108779616064479"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Exit.ld"
+    LogicalPath="IOCtrl.Exit.ld"
+    Type="File"
+    LastWriteTime="132101105634660684"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Types.typ"
+    LogicalPath="IOCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132101105634660684"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Variables.var"
+    LogicalPath="IOCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132101105634660684"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\Package.pkg"
+    LogicalPath="Visualization"
+    Type="Package"
+    LastWriteTime="132092356490592029" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\Visu\Vc.dob"
+    LogicalPath="Visualization.Visu"
+    Type="DataObject"
+    LastWriteTime="132092355995627267" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\Visu\VCObject.vc"
+    LogicalPath="Visualization.Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="132092355995576868"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\IEC.prg"
+    LogicalPath="Visualization.VisCtrl"
+    Type="Program"
+    LastWriteTime="132092356428500494" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Cyclic.st"
+    LogicalPath="Visualization.VisCtrl.Cyclic.st"
+    Type="File"
+    LastWriteTime="132125332940777438"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Init.st"
+    LogicalPath="Visualization.VisCtrl.Init.st"
+    Type="File"
+    LastWriteTime="132110460604333572"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Exit.st"
+    LogicalPath="Visualization.VisCtrl.Exit.st"
+    Type="File"
+    LastWriteTime="132092356428470405"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Types.typ"
+    LogicalPath="Visualization.VisCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132125331468982250"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Variables.var"
+    LogicalPath="Visualization.VisCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132125288132320965"
+    Private="true" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\Config.pkg"
+    LogicalPath="SSBP1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132083661107557766" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\Hardware.hw"
+    LogicalPath="SSBP1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132133709211499870"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\Hardware.hwl"
+    LogicalPath="SSBP1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132088893962738207"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Cpu.pkg"
+    LogicalPath="SSBP1.X20CP0410"
+    Type="Cpu"
+    LastWriteTime="132083671240355920" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Cpu.sw"
+    LogicalPath="SSBP1.X20CP0410.Cpu.sw"
+    Type="File"
+    LastWriteTime="132107559548240686"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Cpu.per"
+    LogicalPath="SSBP1.X20CP0410.Cpu.per"
+    Type="File"
+    LastWriteTime="132083661083548263"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\IoMap.iom"
+    LogicalPath="SSBP1.X20CP0410.IoMap.iom"
+    Type="File"
+    LastWriteTime="132109586853834554"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\PvMap.vvm"
+    LogicalPath="SSBP1.X20CP0410.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132083661083678636"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Connectivity\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.Connectivity"
+    Type="Package"
+    LastWriteTime="132083661084028377" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132133709514979051" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\Connectivity\OpcUA\OpcUaMap.uad"
+    LogicalPath="SSBP1.X20CP0410.Connectivity.OpcUA.OpcUaMap.uad"
+    Type="File"
+    LastWriteTime="132133711324154362"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\TextSystem\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.TextSystem"
+    Type="Package"
+    LastWriteTime="132083661084139041" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\UnitSystem\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.UnitSystem"
+    Type="Package"
+    LastWriteTime="132083661084269341" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132083661085084686" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132083661084499639" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132083661084469579"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132083661084489622"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132083661085004475" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132083661084780694" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132083661084679227" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132083661084771050" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132083661084904211" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132083661084894189" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132083661084934290" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132083661084994449" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132083661085074670" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappControl\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.mappControl"
+    Type="Package"
+    LastWriteTime="132083661085164898" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappMotion\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.mappMotion"
+    Type="Package"
+    LastWriteTime="132083661085245104" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappServices\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.mappServices"
+    Type="Package"
+    LastWriteTime="132092370011299650" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappServices\Config.mpalarmxcore"
+    LogicalPath="SSBP1.X20CP0410.mappServices.Config.mpalarmxcore"
+    Type="File"
+    LastWriteTime="132103696410650319"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappView\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.mappView"
+    Type="Package"
+    LastWriteTime="132083661085415563" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\mappCockpit\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.mappCockpit"
+    Type="Package"
+    LastWriteTime="132083661085511066" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\VC\Package.pkg"
+    LogicalPath="SSBP1.X20CP0410.VC"
+    Type="Package"
+    LastWriteTime="132092358318277633" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\VC\6PPT30.0702-20B.dis"
+    LogicalPath="SSBP1.X20CP0410.VC.6PPT30.0702-20B.dis"
+    Type="File"
+    LastWriteTime="132083671241270391"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\X20CP0410\VC\PS2-Keyboard.dis"
+    LogicalPath="SSBP1.X20CP0410.VC.PS2-Keyboard.dis"
+    Type="File"
+    LastWriteTime="132092358318378254"
+    Private="false" />
+  <Object
+    Path="C:\projects\ChoiceBagging_SSBP\Physical\SSBP1\Hardware.jpg"
+    LogicalPath="SSBP1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132101127131151305"
+    Private="false" />
+</Objects>

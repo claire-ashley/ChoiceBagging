@@ -1,0 +1,10 @@
+MachineState.0 2
+MachineState.1 2
+MachineState.2 2
+MachineState.3 2
+MachineState.4 2
+MachineState.5 2
+MachineState.6 2
+MachineState.7 2
+MachineState.8 2
+MachineState.9 2

@@ -1,0 +1,12 @@
+<BuildOptions>
+  <BuildOption>
+    <SourceFile Value="C:/projects/ChoiceBagging_SSBP/Physical/SSBP1/X20CP0410/Cpu.sw" />
+    <Query Value="/ns:SwConfiguration/ns:TaskClass/*$$Name,Source" />
+    <Xml>
+      <Task Name="IOCtrl" Source="IOCtrl.prg" />
+      <Task Name="MainCtrl" Source="MainCtrl.prg" />
+      <Task Name="AlarmCtrl" Source="AlarmCtrl.prg" />
+      <Task Name="VisCtrl" Source="Visualization.VisCtrl.prg" />
+    </Xml>
+  </BuildOption>
+</BuildOptions>

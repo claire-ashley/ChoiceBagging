@@ -1,0 +1,25 @@
+VAR
+	Vis : Vis_type; (*Visualization process variable*)
+END_VAR
+VAR CONSTANT
+	SYSTEM_TIMERS_PAGE : UDINT := 1000; (*System Timers page index*)
+	SEC_TO_MS : INT := 1000; (*Convert seconds to milliseconds*)
+END_VAR
+VAR
+	Cyl6TimeConv : INT; (*Cyl 6 timer conversion variable*)
+	Cyl5TimeConv : INT; (*Cyl 5 timer conversion variable*)
+	VacuumConfirmTimeConv : INT; (*Vacuum Confirmation timer conversion variable*)
+	BagOnSpoutTimeConv : INT; (*Bag on Spout timer conversion variable*)
+	HomePosTimeConv : INT; (*Home Position timer conversion variable*)
+END_VAR
+VAR CONSTANT
+	ALARM_PAGE : UDINT := 10026; (*Alarm page index*)
+END_VAR
+VAR
+	GripperRetractTimeConv : INT; (*Gripper retract timer conversion variable*)
+	Cyl7TimeConv : INT; (*Cyl 7 timer conversion variable*)
+	SwingArmTimeConv : INT; (*Swing arm timer conversion variable*)
+END_VAR
+VAR CONSTANT
+	MANUAL_PAGE : UDINT := 10025; (*Manual page index*)
+END_VAR

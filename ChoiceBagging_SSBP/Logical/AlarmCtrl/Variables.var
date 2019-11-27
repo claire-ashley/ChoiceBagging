@@ -1,0 +1,6 @@
+VAR
+	MpAlarmXCore_0 : MpAlarmXCore; (*Function block for MpAlarmXCore*)
+	MpAlarmXListUI_0 : MpAlarmXListUI; (*Function block for MpAlarmXListUI*)
+	AlarmXListUIConnect : MpAlarmXListUIConnectType; (*MpAlarmXListUIConnect type*)
+	ErrorString : STRING[255]; (*String for MpAlarmXSet unique alarm code*)
+END_VAR

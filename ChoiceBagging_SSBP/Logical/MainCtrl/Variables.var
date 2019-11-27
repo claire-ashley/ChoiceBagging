@@ -1,0 +1,26 @@
+VAR
+	TON_Cyl6 : TON; (*TON function block for Cyl 6 timer*)
+	TON_Cyl5 : TON; (*TON function block for Cyl 5 timer*)
+	TON_VacuumConfirm : TON; (*TON function block for Vacuum Confirmation timer*)
+	TON_BagOnSpout : TON; (*TON function block for Bag on Spout timer*)
+	TON_HomePos : TON; (*TON function block for Homing Position timer*)
+	TON_Cyl7Switch : TON; (*TON function block for Cyl 7 Spreader Switch timer*)
+END_VAR
+VAR CONSTANT
+	Cyl7SwitchTimer : TIME := T#3S; (*Cyl7 Spreader Switch timer value*)
+END_VAR
+VAR
+	TON_Cyl3 : TON; (*TON function block for Cyl3 timer*)
+	ExecuteJump : BOOL; (*Jump to repeat three times before error*)
+	TON_Cyl5_Sub2 : TON; (*TON function block for Cyl 5 timer in Subroutine 2*)
+	TON_Cyl6_Sub2 : TON; (*TON function block for Cyl 6 timer in Subroutine 2*)
+	TON_Cyl5_Sub0 : TON; (*TON function block for Cyl 5 timer in Subroutine 0*)
+	TON_Cyl6_Sub0 : TON; (*TON function block for Cyl 6 timer in Subroutine 0*)
+	TON_Cyl5_Sub4 : TON; (*TON function block for Cyl 5 timer in Subroutine 4*)
+	TON_Cyl6_Sub4 : TON; (*TON function block for Cyl 6 timer in Subroutine 4*)
+	TON_Cyl6_Sub4_2 : TON; (*TON function block for Cyl 6 timer #2 in Subroutine 4*)
+	TON_GripperRetract : TON; (*TON function block for Gripper Retract timer*)
+	TON_SwingArm : TON; (*TON function block for Swing Arm timer*)
+	StateOld : UDINT; (*Last machine state*)
+	StateOldIsSet : BOOL; (*Last machine state is set*)
+END_VAR

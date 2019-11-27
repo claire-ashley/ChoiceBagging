@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Parameters>
+  <Connection>
+    <DeviceParameters>/IF=tcpip /LOPO=11159 /SA=1</DeviceParameters>
+    <ConnectionParameters>/RT=1000 /AM=* /DAIP=127.0.0.1 /REPO=11160 /ANSL=1</ConnectionParameters>
+  </Connection>
+  <AsProject>
+    <ApjFullFileName>C:\projects\ChoiceBagging_SSBP\ChoiceBagging_SSBP.apj</ApjFullFileName>
+    <ProjectName>ChoiceBagging_SSBP</ProjectName>
+    <ActiveConfigurationName>SSBP1</ActiveConfigurationName>
+    <LicenseDataFolder>C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410</LicenseDataFolder>
+  </AsProject>
+  <General>
+    <DeleteParameterFile>false</DeleteParameterFile>
+  </General>
+</Parameters>

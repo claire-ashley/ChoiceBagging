@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="PageGroup">
+  <Property Name="Description" Value="Page titles, buttons, labels"/>
+  <Property Name="Index" Value="7"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="225421" Value=""/>
+    <Text ID="225422" Value="Start"/>
+    <Text ID="225423" Value="Stop"/>
+    <Text ID="225424" Value="I/O"/>
+    <Text ID="225425" Value="Maintenance"/>
+    <Text ID="225426" Value="Alarms"/>
+    <Text ID="225427" Value="Diagnostics"/>
+    <Text ID="225428" Value="Manual"/>
+    <Text ID="225429" Value=""/>
+    <Text ID="225430" Value=""/>
+    <Text ID="225431" Value=""/>
+    <Text ID="225432" Value=""/>
+    <Text ID="225433" Value=""/>
+    <Text ID="225434" Value=""/>
+    <Text ID="225435" Value=""/>
+    <Text ID="225436" Value=""/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="225421" Value=""/>
+    <Text ID="225422" Value=""/>
+    <Text ID="225423" Value=""/>
+    <Text ID="225424" Value=""/>
+    <Text ID="225425" Value=""/>
+    <Text ID="225426" Value=""/>
+    <Text ID="225427" Value=""/>
+    <Text ID="225428" Value=""/>
+    <Text ID="225429" Value=""/>
+    <Text ID="225430" Value=""/>
+    <Text ID="225431" Value=""/>
+    <Text ID="225432" Value=""/>
+    <Text ID="225433" Value=""/>
+    <Text ID="225434" Value=""/>
+    <Text ID="225435" Value=""/>
+    <Text ID="225436" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="225421" Value="0"/>
+    <Index ID="225422" Value="1"/>
+    <Index ID="225423" Value="2"/>
+    <Index ID="225424" Value="3"/>
+    <Index ID="225425" Value="4"/>
+    <Index ID="225426" Value="5"/>
+    <Index ID="225427" Value="6"/>
+    <Index ID="225428" Value="7"/>
+    <Index ID="225429" Value="8"/>
+    <Index ID="225430" Value="9"/>
+    <Index ID="225431" Value="10"/>
+    <Index ID="225432" Value="11"/>
+    <Index ID="225433" Value="12"/>
+    <Index ID="225434" Value="13"/>
+    <Index ID="225435" Value="14"/>
+    <Index ID="225436" Value="15"/>
+  </IndexMap>
+</TextGroup>

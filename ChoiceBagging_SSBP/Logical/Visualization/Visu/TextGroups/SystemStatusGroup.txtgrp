@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="SystemStatusGroup">
+  <Property Name="Description" Value="IO indicators, machine state"/>
+  <Property Name="Index" Value="4"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="214054" Value="System Status"/>
+    <Text ID="214055" Value="L1 Carriage Right"/>
+    <Text ID="214056" Value="L2 Carriage Left"/>
+    <Text ID="214057" Value="L3 Bag Lifter Upper"/>
+    <Text ID="214058" Value="L4 Bag Lifter Lower"/>
+    <Text ID="214059" Value="L5 Duck Bill Left"/>
+    <Text ID="214060" Value="L6 Duck Bill Right"/>
+    <Text ID="214061" Value="L7 Gripper Open"/>
+    <Text ID="214062" Value="L8 Vacuum Confirmation"/>
+    <Text ID="214063" Value="L9 Swing Arm Upper"/>
+    <Text ID="214064" Value="L10 Swing Arm Lower"/>
+    <Text ID="214065" Value="L11 Empty Bag Inbound Conveyor"/>
+    <Text ID="214066" Value="L12 Cyl 7 Spreader Switch"/>
+    <Text ID="214067" Value="Bagger 1 Ready"/>
+    <Text ID="214068" Value="Bagger 2 On Spout"/>
+    <Text ID="214069" Value="Conveyor On"/>
+    <Text ID="214070" Value="Safe To Run"/>
+    <Text ID="214071" Value="Cyl 1 Carriage Left"/>
+    <Text ID="214072" Value="Cyl 1 Carriage Right"/>
+    <Text ID="214073" Value="Cyl 2 Swing Arm Up"/>
+    <Text ID="214074" Value="Cyl 2 Swing Arm Down"/>
+    <Text ID="214075" Value="Cyl 3 Empty Bag Up"/>
+    <Text ID="214076" Value="Cyl 3 Down to Empty Bag"/>
+    <Text ID="214077" Value="Cyl 4 Duck Bill Left"/>
+    <Text ID="214078" Value="Cyl 4 Duck Bill Right"/>
+    <Text ID="214079" Value="Cyl 4 Duck Bill In"/>
+    <Text ID="214080" Value="Cyl 4 Duck Bill Out"/>
+    <Text ID="214081" Value="Cyl 4 Duck Bill Open"/>
+    <Text ID="214082" Value="Cyl 4 Duck Bill Close"/>
+    <Text ID="214083" Value="Cyl 7 Spreader"/>
+    <Text ID="214084" Value="Cyl 8 Drop Open"/>
+    <Text ID="214085" Value="Cyl 8 Grip Close"/>
+    <Text ID="214086" Value="Vac 1"/>
+    <Text ID="214087" Value="Purge 1"/>
+    <Text ID="214092" Value="Inputs"/>
+    <Text ID="214093" Value="Outputs"/>
+    <Text ID="231106" Value="Chair Discharge"/>
+    <Text ID="240320" Value="Sealer Arm Up"/>
+    <Text ID="240321" Value="Chair In"/>
+    <Text ID="240322" Value="Alarm"/>
+    <Text ID="240323" Value="Running"/>
+    <Text ID="240324" Value=""/>
+    <Text ID="240325" Value=""/>
+    <Text ID="240326" Value=""/>
+    <Text ID="240327" Value=""/>
+    <Text ID="240328" Value=""/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="214054" Value=""/>
+    <Text ID="214055" Value=""/>
+    <Text ID="214056" Value=""/>
+    <Text ID="214057" Value=""/>
+    <Text ID="214058" Value=""/>
+    <Text ID="214059" Value=""/>
+    <Text ID="214060" Value=""/>
+    <Text ID="214061" Value=""/>
+    <Text ID="214062" Value=""/>
+    <Text ID="214063" Value=""/>
+    <Text ID="214064" Value=""/>
+    <Text ID="214065" Value=""/>
+    <Text ID="214066" Value=""/>
+    <Text ID="214067" Value=""/>
+    <Text ID="214068" Value=""/>
+    <Text ID="214069" Value=""/>
+    <Text ID="214070" Value=""/>
+    <Text ID="214071" Value=""/>
+    <Text ID="214072" Value=""/>
+    <Text ID="214073" Value=""/>
+    <Text ID="214074" Value=""/>
+    <Text ID="214075" Value=""/>
+    <Text ID="214076" Value=""/>
+    <Text ID="214077" Value=""/>
+    <Text ID="214078" Value=""/>
+    <Text ID="214079" Value=""/>
+    <Text ID="214080" Value=""/>
+    <Text ID="214081" Value=""/>
+    <Text ID="214082" Value=""/>
+    <Text ID="214083" Value=""/>
+    <Text ID="214084" Value=""/>
+    <Text ID="214085" Value=""/>
+    <Text ID="214086" Value=""/>
+    <Text ID="214087" Value=""/>
+    <Text ID="214092" Value=""/>
+    <Text ID="214093" Value=""/>
+    <Text ID="231106" Value=""/>
+    <Text ID="240320" Value=""/>
+    <Text ID="240321" Value=""/>
+    <Text ID="240322" Value=""/>
+    <Text ID="240323" Value=""/>
+    <Text ID="240324" Value=""/>
+    <Text ID="240325" Value=""/>
+    <Text ID="240326" Value=""/>
+    <Text ID="240327" Value=""/>
+    <Text ID="240328" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="214054" Value="0"/>
+    <Index ID="214055" Value="1"/>
+    <Index ID="214056" Value="2"/>
+    <Index ID="214057" Value="3"/>
+    <Index ID="214058" Value="4"/>
+    <Index ID="214059" Value="5"/>
+    <Index ID="214060" Value="6"/>
+    <Index ID="214061" Value="7"/>
+    <Index ID="214062" Value="8"/>
+    <Index ID="214063" Value="9"/>
+    <Index ID="214064" Value="10"/>
+    <Index ID="214065" Value="11"/>
+    <Index ID="214066" Value="12"/>
+    <Index ID="214067" Value="13"/>
+    <Index ID="214068" Value="14"/>
+    <Index ID="214069" Value="15"/>
+    <Index ID="214070" Value="16"/>
+    <Index ID="214071" Value="17"/>
+    <Index ID="214072" Value="18"/>
+    <Index ID="214073" Value="19"/>
+    <Index ID="214074" Value="20"/>
+    <Index ID="214075" Value="21"/>
+    <Index ID="214076" Value="22"/>
+    <Index ID="214077" Value="23"/>
+    <Index ID="214078" Value="24"/>
+    <Index ID="214079" Value="25"/>
+    <Index ID="214080" Value="26"/>
+    <Index ID="214081" Value="27"/>
+    <Index ID="214082" Value="28"/>
+    <Index ID="214083" Value="29"/>
+    <Index ID="214084" Value="30"/>
+    <Index ID="214085" Value="31"/>
+    <Index ID="214086" Value="32"/>
+    <Index ID="214087" Value="33"/>
+    <Index ID="214092" Value="34"/>
+    <Index ID="214093" Value="35"/>
+    <Index ID="231106" Value="36"/>
+    <Index ID="240320" Value="37"/>
+    <Index ID="240321" Value="38"/>
+    <Index ID="240322" Value="39"/>
+    <Index ID="240323" Value="40"/>
+    <Index ID="240324" Value="41"/>
+    <Index ID="240325" Value="42"/>
+    <Index ID="240326" Value="43"/>
+    <Index ID="240327" Value="44"/>
+    <Index ID="240328" Value="45"/>
+  </IndexMap>
+</TextGroup>

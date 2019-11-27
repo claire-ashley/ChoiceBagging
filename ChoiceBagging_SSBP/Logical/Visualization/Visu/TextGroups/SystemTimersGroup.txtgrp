@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="SystemTimersGroup">
+  <Property Name="Description" Value="Adjustable timer settings"/>
+  <Property Name="Index" Value="2"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="211287" Value="System Timers"/>
+    <Text ID="211288" Value="Cyl 5 Timer"/>
+    <Text ID="211289" Value="Cyl 6 Timer"/>
+    <Text ID="211290" Value="Vacuum Confirmation Timer"/>
+    <Text ID="211291" Value="Bag on Spout TImer"/>
+    <Text ID="211292" Value="Homing Position Timer"/>
+    <Text ID="235531" Value="Gripper Retract Timer"/>
+    <Text ID="238705" Value="Cyl 7 Timer"/>
+    <Text ID="238706" Value="Swing Arm Timer"/>
+    <Text ID="238707" Value=""/>
+    <Text ID="238708" Value=""/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="211287" Value=""/>
+    <Text ID="211288" Value=""/>
+    <Text ID="211289" Value=""/>
+    <Text ID="211290" Value=""/>
+    <Text ID="211291" Value=""/>
+    <Text ID="211292" Value=""/>
+    <Text ID="235531" Value=""/>
+    <Text ID="238705" Value=""/>
+    <Text ID="238706" Value=""/>
+    <Text ID="238707" Value=""/>
+    <Text ID="238708" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="211287" Value="0"/>
+    <Index ID="211288" Value="1"/>
+    <Index ID="211289" Value="2"/>
+    <Index ID="211290" Value="3"/>
+    <Index ID="211291" Value="4"/>
+    <Index ID="211292" Value="5"/>
+    <Index ID="235531" Value="6"/>
+    <Index ID="238705" Value="7"/>
+    <Index ID="238706" Value="8"/>
+    <Index ID="238707" Value="9"/>
+    <Index ID="238708" Value="10"/>
+  </IndexMap>
+</TextGroup>

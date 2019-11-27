@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Element ID="gAlarmXCore" Type="mpalarmxcore">
+    <Group ID="mapp.AlarmX.Core.Configuration">
+      <Group ID="[0]">
+        <Property ID="Name" Value="HomingTimeout" />
+        <Property ID="Message" Value="Timeout while homing machine." />
+        <Property ID="Code" Value="1" />
+      </Group>
+      <Group ID="[1]">
+        <Property ID="Name" Value="SafetyStatus" />
+        <Property ID="Message" Value="Safety status error not OK." />
+        <Property ID="Code" Value="2" />
+      </Group>
+      <Group ID="[2]">
+        <Property ID="Name" Value="ConveyorStatus" />
+        <Property ID="Message" Value="Conveyor status error not OK." />
+        <Property ID="Code" Value="3" />
+      </Group>
+      <Group ID="[3]">
+        <Property ID="Name" Value="ModuleStatus" />
+        <Property ID="Message" Value="Hardware module not OK." />
+        <Property ID="Code" Value="4" />
+      </Group>
+      <Group ID="[4]">
+        <Property ID="Name" Value="VacuumFailure" />
+        <Property ID="Message" Value="Vacuum confirmation failure." />
+        <Property ID="Code" Value="5" />
+      </Group>
+      <Group ID="[5]">
+        <Property ID="Name" Value="Bagger2Failure" />
+        <Property ID="Message" Value="No bag on spout." />
+        <Property ID="Code" Value="6" />
+      </Group>
+    </Group>
+  </Element>
+</Configuration>

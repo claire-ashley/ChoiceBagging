@@ -1,0 +1,17 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=VisCtrl 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=2 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                            Cyl6TimeConv                                      INT    0 "                                                               5"    0    3    1   10    1    0         
+                                  gTimer                               Timer_type    0 "                                                               *"    0   24    1    0    0    1         
+                                    Cyl6                                     TIME    0 "                                                           T#05s"    1   12    1    1    0    0         
+                                     Vis                                 Vis_type    0 "                                                               *"    0   24    1    0    1    1         
+                                     Cmd                              VisCmd_type    0 "                                                               *"    1   24    1    0    0    1         
+                              EnterLogin                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                       LoginErrorConfirm                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                        LoginErrorCancel                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                     Par                              VisPar_type    0 "                                                               *"    1   24    1    0    0    1         
+                           UsernameLevel                                      INT    0 "                                                               1"    2    3    1   10    0    0         
+                           PasswordLevel                                      INT    0 "                                                               1"    2    3    1   10    0    0         
+                               LoginHide                                      INT    0 "                                                               1"    2    3    1   10    0    0         
+                          LoginErrorHide                                      INT    0 "                                                               1"    2    3    1   10    0    0         
+                               Cyl6Timer                                      INT    0 "                                                               5"    2    3    1   10    0    0         

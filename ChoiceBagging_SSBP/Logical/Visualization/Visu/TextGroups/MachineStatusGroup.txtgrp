@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MachineStatusGroup">
+  <Property Name="Description" Value="Machine status"/>
+  <Property Name="Index" Value="8"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="228266" Value="IDLE"/>
+    <Text ID="228267" Value="ERROR"/>
+    <Text ID="228268" Value="PAUSED"/>
+    <Text ID="228269" Value="RUNNING"/>
+    <Text ID="228270" Value="HOMING"/>
+    <Text ID="228271" Value="IS HOMED"/>
+    <Text ID="237113" Value=""/>
+    <Text ID="237114" Value=""/>
+    <Text ID="237115" Value=""/>
+    <Text ID="237116" Value=""/>
+    <Text ID="237117" Value=""/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="228266" Value=""/>
+    <Text ID="228267" Value=""/>
+    <Text ID="228268" Value=""/>
+    <Text ID="228269" Value=""/>
+    <Text ID="228270" Value=""/>
+    <Text ID="228271" Value=""/>
+    <Text ID="237113" Value=""/>
+    <Text ID="237114" Value=""/>
+    <Text ID="237115" Value=""/>
+    <Text ID="237116" Value=""/>
+    <Text ID="237117" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="228266" Value="0"/>
+    <Index ID="228267" Value="1"/>
+    <Index ID="228268" Value="2"/>
+    <Index ID="228269" Value="3"/>
+    <Index ID="228270" Value="4"/>
+    <Index ID="228271" Value="5"/>
+    <Index ID="237113" Value="6"/>
+    <Index ID="237114" Value="7"/>
+    <Index ID="237115" Value="8"/>
+    <Index ID="237116" Value="9"/>
+    <Index ID="237117" Value="10"/>
+  </IndexMap>
+</TextGroup>

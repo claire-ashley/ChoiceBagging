@@ -1,0 +1,30 @@
+Fri Aug 23 10:31:04 2019
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Aug 23 10:31:04 2019
+No ARsim registration found!
+
+Fri Aug 23 10:31:04 2019
+InstanceName: 01d559c7c697aa90
+
+Fri Aug 23 10:31:04 2019
+WorkingDirectory: C:\projects\ChoiceBagging_SSBP\Temp\Simulation\SSBP1\X20CP0410\
+
+Fri Aug 23 10:31:04 2019
+COMMAND_COLDSTART
+
+Fri Aug 23 10:31:06 2019
+Version: D4.52
+
+Fri Aug 23 10:31:59 2019
+COMMAND_TERMINATE
+
+Fri Aug 23 10:31:59 2019
+COMMAND_COLDSTART
+
+Fri Aug 23 10:32:01 2019
+Version: D4.52
+
+Fri Aug 23 10:33:47 2019
+COMMAND_TERMINATE
+

@@ -1,0 +1,11 @@
+VAR
+	gdi : di_type; (*Digital inputs*)
+	gdo : do_type; (*Digital outputs*)
+	gModuleOK : ModuleOK_type; (*Module statuses*)
+	gTimer : Timer_type; (*System timers*)
+	gErrorID : UDINT; (*Error ID*)
+	gMachine : Machine_type; (*Machine process variable*)
+	gInput : Input_type; (*Machine inputs process variable*)
+	gOutput : Output_type; (*Machine outputs process variable*)
+	gMachineState : MachineState_type; (*State machine process variable*)
+END_VAR

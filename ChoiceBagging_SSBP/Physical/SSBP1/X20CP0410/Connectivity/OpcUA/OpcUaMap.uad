@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaSource FileVersion="4" ArVersion="D4.52">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <GlobalVariables Name="Global Variables">
+        <Variable Name="gdi">
+          <Variable Name="L1CarriageRight" />
+          <Variable Name="L2CarriageLeft" />
+          <Variable Name="L3BagLifterUpper" />
+          <Variable Name="L4BagLifterLower" />
+          <Variable Name="L5DuckBillLeft" />
+          <Variable Name="L6DuckBillRight" />
+          <Variable Name="L7GripperOpen" />
+          <Variable Name="L8VacuumConfirm" />
+          <Variable Name="L9SwingArmUpper" />
+          <Variable Name="L10SwingArmLower" />
+          <Variable Name="L11EmptyBagInboundConv" />
+          <Variable Name="L12Cyl7SpreaderSwitch" />
+          <Variable Name="Bagger1Ready" />
+          <Variable Name="Bagger2OnSpout" />
+          <Variable Name="ConveyorOn" />
+          <Variable Name="SafeToRun" />
+          <Variable Name="ChairDischarge" />
+          <Variable Name="SealerArmUp" />
+          <Variable Name="ChairIn" />
+        </Variable>
+        <Variable Name="gdo">
+          <Variable Name="Cyl1CarriageLeft" />
+          <Variable Name="Cyl1CarriageRight" />
+          <Variable Name="Cyl2SwingArmUp" />
+          <Variable Name="Cyl2SwingArmDown" />
+          <Variable Name="Cyl3EmptyBagUp" />
+          <Variable Name="Cyl3DownToEmptyBag" />
+          <Variable Name="Cyl4DuckBillLeft" />
+          <Variable Name="Cyl4DuckBillRight" />
+          <Variable Name="Cyl5DuckBillIn" />
+          <Variable Name="Cyl5DuckBillOut" />
+          <Variable Name="Cyl6DuckBillOpen" />
+          <Variable Name="Cyl6DuckBillClose" />
+          <Variable Name="Cyl7Spreader" />
+          <Variable Name="Cyl8DropOpen" />
+          <Variable Name="Cyl8GripClose" />
+          <Variable Name="Vac1" />
+          <Variable Name="Purge1" />
+          <Variable Name="Alarm" />
+          <Variable Name="Running" />
+        </Variable>
+      </GlobalVariables>
+      <Task Name="VisCtrl">
+        <Variable Name="Vis">
+          <Variable Name="Cmd">
+            <Variable Name="Start" />
+            <Variable Name="Stop" />
+            <Variable Name="Home" />
+          </Variable>
+          <Variable Name="Sts">
+            <Variable Name="MachineStatus" />
+          </Variable>
+          <Variable Name="Par">
+            <Variable Name="Cyl5Timer" />
+            <Variable Name="Cyl6Timer" />
+            <Variable Name="Cyl7Timer" />
+            <Variable Name="GripperRetractTimer" />
+            <Variable Name="SwingArmTimer" />
+            <Variable Name="BagOnSpoutTimer" />
+            <Variable Name="VacuumConfirmTimer" />
+            <Variable Name="HomePosTimer" />
+          </Variable>
+        </Variable>
+      </Task>
+    </Module>
+  </DefaultView>
+</OpcUaSource>

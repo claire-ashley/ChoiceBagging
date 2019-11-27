@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1" />
+  <TaskClass
+    Name="Cyclic#2">
+    <Task
+      Name="IOCtrl"
+      Disable="false"
+      Source="IOCtrl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\IOCtrl\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\IOCtrl\Init.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\IOCtrl\Exit.ld.var" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Types.typ" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\IOCtrl\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="MainCtrl"
+      Disable="false"
+      Source="MainCtrl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\MainCtrl\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\MainCtrl\Init.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\MainCtrl\Exit.ld.var" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Types.typ" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\MainCtrl\Variables.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\MainCtrl\Subroutines.var" />
+    </Task>
+    <Task
+      Name="AlarmCtrl"
+      Disable="false"
+      Source="AlarmCtrl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\AlarmCtrl\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\AlarmCtrl\Init.ld.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\AlarmCtrl\Exit.ld.var" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Types.typ" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\AlarmCtrl\Variables.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\AlarmCtrl\AlarmHandling.st.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8">
+    <Task
+      Name="VisCtrl"
+      Disable="false"
+      Source="Visualization.VisCtrl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\VisCtrl\Cyclic.st.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\VisCtrl\Init.st.var" />
+      <InternalFile
+        Path="C:\projects\ChoiceBagging_SSBP\Temp\Objects\SSBP1\X20CP0410\VisCtrl\Exit.st.var" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Types.typ" />
+      <File
+        Path="C:\projects\ChoiceBagging_SSBP\Logical\Visualization\VisCtrl\Variables.var" />
+    </Task>
+  </TaskClass>
+</ConfigInfo>

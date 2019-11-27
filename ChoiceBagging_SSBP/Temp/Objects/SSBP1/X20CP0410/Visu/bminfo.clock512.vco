@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=3.0?>
+<Intermediate xmlns="http://br.automation.co.at/AS/VC/Intermediate">
+  <Folder Name="Bitmaps">
+    <Folder Name="POBJ">
+      <Object Name="clock512" ClsId="0x306" Version="1" TargetIndex="1086" Type="GFX" RefString="Source[local].Bitmap[clock512]">
+        <UInt16 Name="Width">32</UInt16>
+        <UInt16 Name="Height">32</UInt16>
+        <UInt32 Name="BitsPerPixel">8</UInt32>
+        <Byte Name="Transparency">1</Byte>
+        <Byte Name="TargetFormat">1</Byte>
+        <UInt16 Name="Reserved">0</UInt16>
+        <Int32 Name="TransparentColor">15</Int32>
+        <Int32 Name="FillAreas">0</Int32>
+        <Binary Name="BitmapData" Encoding="Base64">Dw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDztmkfe8vPaRZjsPDw8PDw8PDw8PDw8PDw8PDw8PDwf29vb39/f39/f29vZmDw8PDw8PDw8PDw8PDw8PDzv29vf39/f3kZH39/f39/b2Ow8PDw8PDw8PDw8PDw8IvPf39/f39/YPD/b39/f39/e8CA8PDw8PDw8PDw8P//b39/f39/f39vv79vf39/f39/f2/w8PDw8PDw8PD2b29/f39/f39/f39vb39/f29/f39/f2CA8PDw8PDw87vPf39/f39/f39/f39/f39gj29/f39/e8Ow8PDw8PD/b39/f39/f39/f39/f39/YHD//39/f39/f2Dw8PDw8H9vf39/f39/f39/f39/f39w/v9vf39/f39/ZmDw8PD/b39/f39/f39/f39/f397w7D//29/f39/f39/YPDw879vf39/f39/f39/f39/f3kQ/xvPf39/f39/f39jsPD2b29/f39/f39/f39/f397zwD/f39/f39/f39/f2Zg8Pkff39/f39/f39/f39/f2Zg8H9vf39/f39/f39/eRDw/39/f29vf39/f39/f39/YPD/b39/f39/f39vb39/cPD7z3kQ/79vf39/f39/f2Bw8I9vf39/f39/b7D5H3vA8PvPeRD/v29/f39/f39/Y7D/f39/f39/f39vsPkfe8Dw/39/f29vf39/f39/f395EPB/b39/f39/f39vb39/cPD5H39/f39/f39/f39/f3vO8PvPf39/f39/f39/f3kQ8PZvb39/f39/f39/f39/f2Zg8I9vf39/f39/f39/ZmDw879vf39/f39/f39/f39/f3D/m89/f39/f39/f39jsPDw/29/f39/f39/f39/f39/b6D/f39/f39/f39/f2Dw8PD2b29/f39/f39/f39/f39v8PB/b39/f39/f39mYPDw8PD/b39/f39/f39/f39/f3vA8PvPf39/f39/f2Dw8PDw8PO7z39/f39/f39/f39/f2Bw//9vf39/f3vDsPDw8PDw8PCPb39/f39/f39/f29vf3D/r29/f39/YIDw8PDw8PDw8P//b39/f39/f39vv79vY7O/b39/f2/w8PDw8PDw8PDw8PCLz39/f39/f2Dw/29/b29/f3vAgPDw8PDw8PDw8PDw8PO/b29/f39/eRkff39/f39vY7Dw8PDw8PDw8PDw8PDw8PDwf29vb39/f39/f29vZmDw8PDw8PDw8PDw8PDw8PDw8PDw87ZpH3vLz3kWY7Dw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw==</Binary>
+      </Object>
+    </Folder>
+  </Folder>
+</Intermediate>
